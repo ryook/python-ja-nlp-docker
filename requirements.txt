@@ -1,0 +1,13 @@
+# NLPライブラリ
+sudachipy
+sudachidict_core
+ginza
+
+# MLライブラリ
+gensim
+
+# 分析用ライブラリ
+pandas
+
+# 実行環境
+jupyter
